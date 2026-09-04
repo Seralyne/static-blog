@@ -47,3 +47,20 @@ package/
 .codex*
 .claude
 .mimocode
+
+
+# terraform
+
+# Local cache directory containing downloaded Cloudflare provider binaries
+.terraform/
+
+# System state history files (holds tracking metadata)
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+
+# Crash logs
+crash.log
+crash.*.log
+
+# ===============================
