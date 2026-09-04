@@ -13,9 +13,9 @@ resource "cloudflare_dns_record" "www_dns" {
   zone_id = var.cloudflare_zone_id
   name    = "www"
   type    = "CNAME"
-  content = "seralyne.net"   
-  proxied = true             
-  ttl     = 1                
+  content = "seralyne.net"
+  proxied = true
+  ttl     = 1
 }
 
 # 3. Create a separate network routing rule for the apex domain
