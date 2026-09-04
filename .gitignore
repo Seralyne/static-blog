@@ -63,4 +63,16 @@ package/
 crash.log
 crash.*.log
 
-# ===============================
+
+
+# =========================================================================
+# Credentials & Personal Variables (CRITICAL SECURITY)
+# =========================================================================
+# Never allow local configuration variable files onto GitHub
+*.tfvars
+*.tfvars.json
+
+
+# Ignore local system environment file configurations
+.env
+.env.*
