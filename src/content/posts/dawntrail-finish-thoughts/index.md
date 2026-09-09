@@ -1,5 +1,5 @@
 ---
-title: *DRAFT* Onwards we march to ventures Ever Cold(er).
+title: Onwards we march to ventures Ever Cold(er). *DRAFT*
 published: 2026-09-09
 description: A retrospective of Dawntrail and it's content - and a look towards the future.
 slug: dawntrail-retrospective
