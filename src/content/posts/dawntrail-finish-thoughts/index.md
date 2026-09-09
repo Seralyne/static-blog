@@ -1,5 +1,5 @@
 ---
-title: Onwards we march to ventures Ever Cold(er). *DRAFT*
+title: Onwards we march to ventures Ever Cold(er) - A Dawntrail Retrospective *DRAFT*
 published: 2026-09-09
 description: A retrospective of Dawntrail and it's content - and a look towards the future.
 slug: dawntrail-retrospective
@@ -42,42 +42,21 @@ I, for one, am not into wrestling, have never been, and probably never will be, 
 
 The fights themselves, and the visual and audio presentation? Actual masterpieces basically every single one. I'm speaking from primarily a normal mode perspective for these - I've done a liiittle bit of Dancing Green on Savage and a liiittle bit of Vamp Fatale on Savage as well. I do suppose I should start by addressing the Tom Morello-shaped elephant in the room.
 
-### Everything Burns - The Lindwurm
+Good lord, the track Tom Morello and Beartooth composed for the game absolutely fucks. And so does the fight. I've got my gripes about how we got there, but the fight itself in all its presentation absolutely deserves the spot as the final raid of the series.
 
-My gripes with how we got here in the story aside, great fight. Loved it, loved the spectacle, and god damn Beartooth and Tom Morello can make a track that absolutely fucks. I'm speaking from exclusively normal mode experience on this fight, but I genuinely do love it.
+Another stand-out, at least to me, is Chrissy Costanza's performance in Give It All. I had never imagined that the artist behind *Legends Never Die* from League of Legends would perform in one of my other favourite games, but it was definitely satisfying when I connected the dots.
 
-### Give It All - Wicked Thunder & Black Cat
+In terms of other great musical performances, obviously Bee My Honey is great, though I was pleasantly surprised by both Sinister and Back to the Drawing Board. Both of those grew on me with time. 
 
-Obviously, being the first tier, it's never the *most* interesting, especially Black Cat, being first boss of the first tier, but still. Black Cat continued the trend of manipulating the arena which Endwalker's last two tiers started, which is a welcome change from the always square or circle shaped boss arenas that plagued raiding prior to Endwalker's experimentation.
+Fight-wise, I quite enjoyed what I've seen of Dancing Green on Savage, and the Brute Bomber fights were also great fight-wise. The Tyrant was also great on normal. 
 
-The Arcadion also largely did away with the supermassive target boxes that Endwalker had introduced - a welcome change. I remember Kokytos having a targetbox that was at least twice its size. Sure, the massive sizes made sense for bosses like Pandæmonium, which itself took up a significant portion of the off-platform space that it occupied, but not for bosses like Kokytos. I'm glad The Arcadion did away with them. 
+In general, I appreciate what's changed from Endwalker too, though. Gone are the days of the supermassive targetboxes, which frankly got ridiculous for bosses like Kokytos in Pandæmonium, but I also appreciate the experimentation with fight arenas as well - they're mostly square or spherical in Arcadion, but a lot of them have at least some level of arena gimmick, so I can forgive that. It is also arguably on-theme for the raid series, given it's supposed to be a series of wrestling arenas.
 
-My praise is aimed at Black Cat, but it applies to most of the Arcadion bosses, honestly.
-
-As for Wicked Thunder... let's start with the performance. I am **so** happy that Chrissy Costanza performed Give It All. Being a bit of a League of Legends player myself, I was familiar with her works in *Legends Never Die*, and I'll have to say, she did not disappoint for Give It All. It's been an instant playlist add for me. 
-
-The fight itself was also good, I'm a big fan of how FF14 actually forces you to look at boss gestures rather than
-
-### Honey B. Lovely
-
-### Brute Bomber 1 & 2
-
-The musical pieces were not for me, what lack of appeal the musical pieces had, they made up for in how the fight itself plays. 
-
-### Sinister - Vamp Fatale
-
-
-
-
-
-### Dancing Green
-
-### The other fights
-
-Yes, this section also includes M8S, the fighter whose name I genuinely had to look up
 
 ## Do Vana'diel Reconstructions Dream of Electrope Sheep?
-This is where I'll talk about Echoes of Vana'diel as a non-FF11 player.
+I'm not a FF11 player. Like, not at all. But I will admit I've been curious about Vana'diel ever since I got to play the crossover with Iroha back during the downtime before Endwalker. It has been quite a while since I've done the fights, but I have quite enjoyed them - and the story too. It was good to see Alxaal and Prishe and Shantotto properly. It was great that Bakool Ja Ja got more story too! Quite enjoyed his character by the end of Dawntrail's MSQ, and it's been good seeing him trend further in that direction too.
+
+Was interesting to see other takes on Omega, Alexander, Shinryu and Ultima as well. 
 
 ## Other Side Content
 
@@ -112,4 +91,4 @@ While not as much as Endwalker - which was effectively missing both Relic Weapon
 Beastmaster - unlike Blue Mage, which was added *prior* to the launch of Shadowbringers, despite being a Shadowbringers feature, launched at the very end of the Dawntrail content cycle. This is unfortunate
 
 
-# But what *does* lie beyond the Solstice?
+# Beyond the Gilded Bridge
