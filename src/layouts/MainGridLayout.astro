@@ -32,6 +32,7 @@ interface Props {
 	setOGTypeArticle?: boolean;
 	postSlug?: string;
 	postCoverImage?: string;
+    postOgImage?: string;
 	postCategory?: string;
 	headings?: MarkdownHeading[];
 	encrypted?: boolean;
@@ -54,6 +55,7 @@ const {
 	setOGTypeArticle,
 	postSlug,
 	postCoverImage,
+    postOgImage,
 	postCategory,
 	headings = [],
 	encrypted = false,
@@ -88,7 +90,7 @@ const {
 } = sidebar;
 ---
 
-<Layout title={title} description={description} lang={lang} setOGTypeArticle={setOGTypeArticle} postSlug={postSlug} postCoverImage={postCoverImage} hasWallpaper={hasWallpaper}>
+<Layout title={title} description={description} lang={lang} setOGTypeArticle={setOGTypeArticle} postSlug={postSlug} postCoverImage={postCoverImage} postOgImage={postOgImage} hasWallpaper={hasWallpaper}>
 
 <slot slot="head" name="head" />
 <HeaderTopRow navbarMode={navbarMode} navbarWidthFull={navbarWidthFull} />

@@ -110,6 +110,12 @@ const coverImage =
 		coverBasePath,
 		siteConfig.site_url,
 	)) ?? undefined;
+const ogImage =
+  (await toAbsoluteImageInfo(
+    entry.data.ogImage || entry.data.thumbnail || processedImage,
+    coverBasePath,
+    siteConfig.site_url,
+  )) ?? undefined;
 
 // 作者个人页（/about/）绝对 URL，用于 author.url 指向唯一标识作者的页面
 const aboutUrl =
@@ -202,6 +208,7 @@ const seriesData = await getSeriesPosts(entry);
   setOGTypeArticle={true}
   postSlug={entry.id}
   postCoverImage={coverImage?.url}
+  postOgImage={ogImage?.url}
   postCategory={entry.data.category || undefined}
   headings={headings}
   encrypted={!!entry.data.password}

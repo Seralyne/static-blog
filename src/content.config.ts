@@ -10,6 +10,8 @@ type PostData = {
 	draft: boolean;
 	description: string;
 	image: string;
+	thumbnail: string;
+	ogImage: string;
 	tags: string[];
 	category: string | null;
 	lang: string;
@@ -49,6 +51,8 @@ const postsCollection: ContentCollection<PostData> = defineCollection({
 		draft: z.boolean().optional().default(false),
 		description: z.string().optional().default(""),
 		image: z.string().optional().default(""),
+		thumbnail: z.string().optional().default(""),
+		ogImage: z.string().optional().default(""),
 		tags: z.array(z.string()).optional().default([]),
 		category: z.string().optional().nullable().default(""),
 		lang: z.string().optional().default(""),

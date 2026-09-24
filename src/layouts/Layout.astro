@@ -49,6 +49,7 @@ interface Props {
 	setOGTypeArticle?: boolean;
 	postSlug?: string;
 	postCoverImage?: string;
+  postOgImage?: string;
 	hasWallpaper?: boolean;
 }
 
@@ -59,6 +60,7 @@ let {
 	setOGTypeArticle,
 	postSlug,
 	postCoverImage,
+  postOgImage,
 	hasWallpaper = false,
 } = Astro.props;
 
@@ -102,7 +104,9 @@ if (title) {
 }
 
 let ogImageUrl: string | undefined;
-if (siteConfig.post.generateOgImages && postSlug) {
+if (postOgImage) {
+  ogImageUrl = postOgImage;
+} else if (siteConfig.post.generateOgImages && postSlug) {
 	ogImageUrl = new URL(`/og/${postSlug}.png`, Astro.site).toString();
 } else if (postCoverImage) {
 	ogImageUrl = postCoverImage; // 已由文章页算成绝对 URL
