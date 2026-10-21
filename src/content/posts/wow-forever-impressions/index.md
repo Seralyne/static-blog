@@ -11,6 +11,8 @@ category: World of Warcraft
 draft: false
 ---
 
+# Test overskrift please ignore
+
 Azeroth calls us home once more, and as a long-time *World of Warcraft* player, I answered the call and bought the *Skyborne Epic Pack* that came with Beta access. And if you want the "too long, didn't read" version of it, it's pretty simple: It's good. Go play it in November.
 
 Honestly, the decision was pretty simple - I've always been a fan of World of Warcraft's elves, and the inclusion of the Roleplay ruleset has me hoping to *finally* play a Quel'dorei (or High Elf) character in a pre-Cataclysm setting. The Warcraft Universe gets a little bit confusing about elven nomenclature, so I've tried to boil it down somewhat simply at the end of the article. I also just really like the Blood Elf models, and with the Skyborne being based off those, that decision was fairly simple. I was forking out the 225 DKK *anyway*, add in  the ~100 DKK a subscription in November would cost anyway, the real difference in cost was about ~125 DKK, 97 of which I paid with a WoW Token from my gold from mainline World of Warcraft (Retail--as it is called by the game's playerbase).
